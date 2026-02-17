@@ -85,16 +85,15 @@ CGPA: 6.62/10
 
 ---
 
-# 📊 GitHub Stats  
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AGiriGoswami&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AGiriGoswami&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<!-- <p align="center"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=AGiriGoswami&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> -->
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AGiriGoswami&theme=tokyonight&hide_border=true" height="170"/> -->
+<!-- </p> -->
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGiriGoswami&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<!-- <p align="center"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGiriGoswami&layout=compact&theme=tokyonight&hide_border=true"/> -->
+<!-- </p> -->
 
 ---
 
