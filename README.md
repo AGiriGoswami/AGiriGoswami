@@ -1,64 +1,87 @@
 # 🚀 Ajay Giri Goswami  
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Ajay%20Giri%20Goswami&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Ajay%20Giri%20Goswami&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;JavaScript+Enthusiast;Always+Learning+New+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;E-Commerce+Account+Manager;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications" />
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 Profile Summary  
 
-Hi 👋 I'm **Ajay Giri Goswami**, a passionate **MERN Stack Developer** from India 🇮🇳  
+MERN Stack Developer with hands-on experience in full-stack web development using **MongoDB, Express.js, React.js, Node.js**.  
 
-- 🔥 Building dynamic & scalable web applications  
-- 🚀 Strong in Frontend + Backend  
-- 🧠 Love solving DSA problems  
-- 🌱 Exploring advanced backend & system design  
-- 💡 Continuous Learner & Tech Enthusiast  
+💼 Experienced as an **E-Commerce Account Manager (Amazon & Flipkart)** handling:
+- Amazon Ads & Flipkart Ads  
+- FBA Shipments  
+- Catalog Optimization  
+- Performance Analytics  
+- 15-Day Sales Reporting  
 
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-<a href="https://www.instagram.com/agoswami69" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45" />
-</a>
-<a href="https://www.linkedin.com/in/ajay-giri-goswami-564482227" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-<a href="mailto:ag124767@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-</p>
+🔍 Strong ability to combine **technical development + business operations** to build scalable & user-friendly solutions.
 
 ---
 
-# 🛠 Tech Stack  
+# 🛠 Technical Skills  
 
 ### 🚀 Frontend  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
-</p>
+`HTML` `CSS` `JavaScript` `React.js` `Redux` `Redux Toolkit` `Tailwind CSS`
 
 ### ⚙ Backend  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+`Node.js` `Express.js` `REST APIs` `JWT Authentication`
 
-### 💻 Programming  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp" />
-</p>
+### 🗄 Database  
+`MongoDB` `Mongoose`
 
-### 🌐 Tools & Deployment  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,netlify" />
-</p>
+### 🧰 Tools  
+`Git` `GitHub` `npm` `Stripe API` `Excel`
+
+---
+
+# 💼 Professional Experience  
+
+## 🏢 Aquadpure – E-Commerce Account Manager  
+📅 Feb 2025 – Present  
+
+- Managed Amazon & Flipkart seller accounts end-to-end  
+- Optimized Amazon Sponsored Ads & reduced ACOS  
+- Handled FBA shipments & inventory tracking  
+- Analyzed daily, weekly & 15-day performance reports  
+- Improved product ranking with SEO & keyword research  
+
+---
+
+# 🚀 Featured Project  
+
+## 🛍 Clothing E-Commerce Website (MERN Stack)  
+📅 Oct 2025 – Present  
+👨‍💻 Role: MERN Full Stack Developer  
+
+### 🔥 Key Features:
+- JWT Authentication (Login/Register)
+- Product Filters (Category, Size, Price, Color)
+- Admin Dashboard (Product & Order Management)
+- Responsive UI (React + Tailwind CSS)
+- Redux Toolkit State Management
+- MongoDB Database Integration
+
+### 🛠 Tech Used:
+React | Redux Toolkit | React Router | Tailwind CSS  
+Node.js | Express.js | MongoDB | JWT | Git/GitHub  
+
+---
+
+# 🎓 Education  
+
+🎓 **Master of Computer Application (MCA)** – Pursuing  
+Sage University, Indore  
+
+🎓 **Bachelor of Computer Application (BCA)**  
+Vishisht School of Management  
+CGPA: 6.62/10  
 
 ---
 
@@ -75,40 +98,17 @@ Hi 👋 I'm **Ajay Giri Goswami**, a passionate **MERN Stack Developer** from In
 
 ---
 
-# 🐍 Contribution Snake  
+# 🌐 Connect With Me  
 
-> ⚠️ Snake animation show करने के लिए GitHub Action setup करना पड़ेगा।
+📍 Indore, Madhya Pradesh, India  
+📞 +91-86020-35235  
+📧 ag124767@gmail.com  
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/AGiriGoswami/AGiriGoswami/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 🏆 Achievements  
-
-- 💻 Built Multiple Full Stack Projects  
-- 🧠 Strong in Data Structures & Algorithms  
-- 🚀 Passionate About Clean & Scalable Code  
-
----
-
-# 💬 Dev Quote  
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-# 👀 Profile Views  
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AGiriGoswami&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+🔗 [LinkedIn](https://www.linkedin.com/in/ajay-giri-goswami-564482227)  
+🔗 [GitHub](https://github.com/AGiriGoswami)  
 
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile! Let's build something amazing together 🚀
+💡 “Turning Ideas into Scalable Web Solutions” 🚀
 </p>
