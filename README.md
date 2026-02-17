@@ -57,7 +57,7 @@ MERN Stack Developer with hands-on experience in full-stack web development usin
 # 🚀 Featured Project  
 
 ## 🛍 Clothing E-Commerce Website (MERN Stack)  
-📅 Oct 2025 – Present  
+📅 Jau 2026 – Present  
 👨‍💻 Role: MERN Full Stack Developer  
 
 ### 🔥 Key Features:
