@@ -1,117 +1,108 @@
-# 🚀 Ajay Giri Goswami  
+<!-- ================= PREMIUM HEADER ================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Ajay%20Giri%20Goswami&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Ajay%20Giri%20Goswami&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;E-Commerce+Account+Manager;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications;Open+to+Opportunities" />
+</p>
+
+<p align="center">
+  📍 Indore, Madhya Pradesh, India •
+  📧 ag124767@gmail.com •
+  📱 +91-86020-35235
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajay-giri-goswami-564482227">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/AGiriGoswami">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 Profile Summary  
+# 👨‍💻 About Me
 
-MERN Stack Developer with hands-on experience in full-stack web development using **MongoDB, Express.js, React.js, Node.js**.  
+Passionate **MERN Stack Developer** with strong hands-on experience in building scalable, secure, and high-performance web applications.
 
-💼 Experienced as an **E-Commerce Account Manager (Amazon & Flipkart)** handling:
-- Amazon Ads & Flipkart Ads  
-- FBA Shipments  
-- Catalog Optimization  
-- Performance Analytics  
-- 15-Day Sales Reporting  
+Experienced in combining **technical development + business operations** through hands-on work as an **E-Commerce Account Manager (Amazon & Flipkart)**.
 
-🔍 Strong ability to combine **technical development + business operations** to build scalable & user-friendly solutions.
+Focused on writing clean code, building user-friendly interfaces, and delivering business-driven solutions.
 
 ---
 
-# 🛠 Technical Skills  
+# 🛠 Tech Stack
 
-### 🚀 Frontend  
-`HTML` `CSS` `JavaScript` `React.js` `Redux` `Redux Toolkit` `Tailwind CSS`
-
-### ⚙ Backend  
-`Node.js` `Express.js` `REST APIs` `JWT Authentication`
-
-### 🗄 Database  
-`MongoDB` `Mongoose`
-
-### 🧰 Tools  
-`Git` `GitHub` `npm` `Stripe API` `Excel`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,git,github,npm" />
+</p>
 
 ---
 
-# 💼 Professional Experience  
+# 💼 Professional Experience
 
-## 🏢 Aquadpure – E-Commerce Account Manager  
+## 🏢 Aquadpure — E-Commerce Account Manager  
 📅 Feb 2025 – Present  
 
-- Managed Amazon & Flipkart seller accounts end-to-end  
-- Optimized Amazon Sponsored Ads & reduced ACOS  
-- Handled FBA shipments & inventory tracking  
-- Analyzed daily, weekly & 15-day performance reports  
-- Improved product ranking with SEO & keyword research  
+✔ Managed Amazon & Flipkart seller accounts end-to-end  
+✔ Optimized Sponsored Ads campaigns & reduced ACOS  
+✔ Handled FBA shipment planning & inventory control  
+✔ Generated daily, weekly & 15-day performance analytics  
+✔ Improved product ranking through SEO & keyword research  
+✔ Delivered data-driven growth strategies  
 
 ---
 
-# 🚀 Featured Project  
+# 🚀 Featured Project
 
 ## 🛍 Clothing E-Commerce Website (MERN Stack)  
-📅 Jau 2026 – Present  
-👨‍💻 Role: MERN Full Stack Developer  
+📅 Jan 2026 – Present  
+**Role:** Full Stack Developer  
 
 ### 🔥 Key Features:
-- JWT Authentication (Login/Register)
-- Product Filters (Category, Size, Price, Color)
-- Admin Dashboard (Product & Order Management)
-- Responsive UI (React + Tailwind CSS)
-- Redux Toolkit State Management
-- MongoDB Database Integration
+- Secure JWT Authentication (Login/Register)  
+- Advanced Product Filtering (Category, Size, Price, Color)  
+- Admin Dashboard (Product & Order Management)  
+- Redux Toolkit Global State Management  
+- REST API Integration with MongoDB  
+- Fully Responsive UI (React + Tailwind CSS)  
 
 ### 🛠 Tech Used:
-React | Redux Toolkit | React Router | Tailwind CSS  
-Node.js | Express.js | MongoDB | JWT | Git/GitHub  
+React • Redux Toolkit • Node.js • Express.js • MongoDB • JWT • Git  
 
 ---
 
-# 🎓 Education  
+# 🎓 Education
 
-🎓 **Master of Computer Application (MCA)** – Pursuing  
+**Master of Computer Application (MCA)** – Pursuing  
 Sage University, Indore  
 
-🎓 **Bachelor of Computer Application (BCA)**  
+**Bachelor of Computer Application (BCA)**  
 Vishisht School of Management  
-CGPA: 6.62/10  
+CGPA: 6.62 / 10  
 
 ---
 
-
-# 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AGiriGoswami&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=AGiriGoswami&theme=tokyonight&hide_border=true" height="165" />
-</p>
+# 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGiriGoswami&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=AGiriGoswami&theme=tokyonight&hide_border=true"/>
 </p>
 
 
 
 ---
 
-# 🌐 Connect With Me  
+# 🎯 Career Objective
 
-📍 Indore, Madhya Pradesh, India  
-📞 +91-86020-35235  
-📧 ag124767@gmail.com  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/ajay-giri-goswami-564482227)  
-🔗 [GitHub](https://github.com/AGiriGoswami)  
+Seeking a challenging opportunity as a **Full Stack / MERN Stack Developer** where I can contribute to innovative products, enhance user experiences, and grow with a dynamic engineering team.
 
 ---
 
 <p align="center">
-💡 “Turning Ideas into Scalable Web Solutions” 🚀
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
