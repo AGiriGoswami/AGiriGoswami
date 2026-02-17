@@ -1,18 +1,114 @@
-# 💫 About Me:
-👋 Hi, I'm Ajay Giri Goswami , a passionate MERN Stack Developer!<br>I specialize in creating dynamic and responsive web applications using MongoDB, Express.js, React, and Node.js.<br>With a deep understanding of both front-end and back-end technologies, I strive to build scalable and efficient applications.<br>🚀 Always excited to explore new challenges, I enjoy staying up to date with the latest trends in web development.
+# 🚀 Ajay Giri Goswami  
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Ajay%20Giri%20Goswami&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/agoswami69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ajay-giri-goswami-564482227) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ag124767@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AGiriGoswami&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AGiriGoswami&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AGiriGoswami&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;JavaScript+Enthusiast;Always+Learning+New+Tech" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AGiriGoswami&icon=1&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me  
+
+Hi 👋 I'm **Ajay Giri Goswami**, a passionate **MERN Stack Developer** from India 🇮🇳  
+
+- 🔥 Building dynamic & scalable web applications  
+- 🚀 Strong in Frontend + Backend  
+- 🧠 Love solving DSA problems  
+- 🌱 Exploring advanced backend & system design  
+- 💡 Continuous Learner & Tech Enthusiast  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+<a href="https://www.instagram.com/agoswami69" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+<a href="https://www.linkedin.com/in/ajay-giri-goswami-564482227" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+<a href="mailto:ag124767@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+</p>
+
+---
+
+# 🛠 Tech Stack  
+
+### 🚀 Frontend  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux" />
+</p>
+
+### ⚙ Backend  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 💻 Programming  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp" />
+</p>
+
+### 🌐 Tools & Deployment  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,netlify" />
+</p>
+
+---
+
+# 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AGiriGoswami&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AGiriGoswami&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGiriGoswami&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake  
+
+> ⚠️ Snake animation show करने के लिए GitHub Action setup करना पड़ेगा।
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AGiriGoswami/AGiriGoswami/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🏆 Achievements  
+
+- 💻 Built Multiple Full Stack Projects  
+- 🧠 Strong in Data Structures & Algorithms  
+- 🚀 Passionate About Clean & Scalable Code  
+
+---
+
+# 💬 Dev Quote  
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+# 👀 Profile Views  
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AGiriGoswami&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile! Let's build something amazing together 🚀
+</p>
