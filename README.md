@@ -98,6 +98,13 @@ CGPA: 6.62/10
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGiriGoswami&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff"/>
 </p>
 
+# 🐍 Contribution Snake (Dark)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AGiriGoswami/AGiriGoswami/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
 ---
 
 # 🌐 Connect With Me  
