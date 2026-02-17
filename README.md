@@ -95,7 +95,6 @@ CGPA: 6.62/10
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGiriGoswami&layout=compact&theme=tokyonight&hide_border=true"/> -->
 <!-- </p> -->
 
----
 
 # 🌐 Connect With Me  
 
