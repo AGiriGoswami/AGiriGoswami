@@ -5,13 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications;Open+to+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;JavaScript+Logic+Builder;E-Commerce+Profit+Simulation+Projects;Building+Business-Driven+Web+Applications;Open+to+Developer+Opportunities" />
 </p>
 
 <p align="center">
   📍 Indore, Madhya Pradesh, India •
-  📧 ag124767@gmail.com •
-  📱 +91-86020-35235
+  📧 ag124767@gmail.com
 </p>
 
 <p align="center">
@@ -27,19 +26,51 @@
 
 # 👨‍💻 About Me
 
-Passionate **MERN Stack Developer** with strong hands-on experience in building scalable, secure, and high-performance web applications.
+I am a **Full Stack MERN Developer** with strong problem-solving skills and hands-on experience in building scalable, secure, and performance-driven web applications.
 
-Experienced in combining **technical development + business operations** through hands-on work as an **E-Commerce Account Manager (Amazon & Flipkart)**.
+With real-world exposure as an **E-Commerce Account Manager (Amazon & Flipkart)**, I combine technical development skills with business understanding to build practical, revenue-focused solutions.
 
-Focused on writing clean code, building user-friendly interfaces, and delivering business-driven solutions.
+I focus on:
+- Writing clean and maintainable code
+- Designing intuitive user interfaces
+- Building business logic driven systems
+- Delivering measurable impact
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,git,github,npm" />
-</p>
+---
+
+## 📦 Profit & RTO Calculator  
+**Frontend Business Simulation Project**
+
+🔹 Built a realistic Amazon seller profit engine including referral fees, closing fees, TCS (1%), return percentage, and RTO full-loss modeling.  
+🔹 Implemented dynamic fee slabs and automated business calculations using JavaScript.  
+🔹 Integrated Chart.js for revenue vs cost vs profit visualization.  
+🔹 Added downloadable PDF business reports using jsPDF.  
+🔹 Designed fully responsive UI using Tailwind CSS.  
+
+**Live Demo:**  
+https://e-commerceprofitandloss.netlify.app/
+
+**Tech Used:**  
+HTML • Tailwind CSS • JavaScript • Chart.js • jsPDF • Netlify  
+
+---
+
+## 🛍 Clothing E-Commerce Website (MERN Stack)  
+**Full Stack Application**
+
+🔹 Secure JWT Authentication (Login / Register)  
+🔹 Admin Dashboard (Product & Order Management)  
+🔹 Advanced Product Filtering (Category, Size, Price, Color)  
+🔹 Redux Toolkit State Management  
+🔹 REST APIs with Express & MongoDB  
+🔹 Fully Responsive UI (React + Tailwind)  
+
+**Tech Used:**  
+React • Redux Toolkit • Node.js • Express • MongoDB • JWT  
 
 ---
 
@@ -48,66 +79,20 @@ Focused on writing clean code, building user-friendly interfaces, and delivering
 ## 🏢 Aquadpure — E-Commerce Account Manager  
 📅 Feb 2025 – Present  
 
-✔ Managed Amazon & Flipkart seller accounts end-to-end  
-✔ Optimized Sponsored Ads campaigns & reduced ACOS  
-✔ Handled FBA shipment planning & inventory control  
-✔ Generated daily, weekly & 15-day performance analytics  
-✔ Improved product ranking through SEO & keyword research  
-✔ Delivered data-driven growth strategies  
+- Managed Amazon & Flipkart seller accounts end-to-end  
+- Optimized Sponsored Ads campaigns and reduced ACOS  
+- Handled FBA shipment planning & inventory management  
+- Generated analytical performance reports (Daily / Weekly / 15-day)  
+- Improved product ranking through SEO & keyword optimization  
+- Implemented data-driven growth strategies  
 
 ---
 
+# 🛠 Tech Stack
 
-# 📊 Business Simulation Project
-
-## 📦 Profit & RTO Calculator  
-📅 2026  
-**Role:** Frontend Developer  
-
-### 🔥 Project Overview:
-Built a realistic Amazon seller profit simulation tool that calculates actual net profitability by including referral fees, closing fees, TCS (1%), return percentage, and RTO full-loss impact.
-
-### 🚀 Key Features:
-- Dynamic Amazon 2026 Referral Fee Slab Engine  
-- Closing Fee Automation  
-- TCS (1%) Auto Calculation  
-- RTO (Return-to-Origin) Full Loss Simulation  
-- Revenue vs Cost vs Profit Visualization (Chart.js)  
-- Downloadable Business PDF Report (jsPDF)  
-- Fully Responsive Modern UI (Tailwind CSS)  
-
-### 🧠 Business Logic Implemented:
-- Automated fee structure based on selling price  
-- Return % simulation affecting revenue and shipping  
-- Double shipping cost loss modeling  
-- Accurate net margin calculation  
-
-### 🌐 Live Demo:
-🔗 https://e-commerceprofitandloss.netlify.app/
-
-### 🛠 Tech Used:
-HTML • Tailwind CSS • JavaScript • Chart.js • jsPDF • Netlify  
-
-
-
----
-
-# 🚀 Featured Project
-
-## 🛍 Clothing E-Commerce Website (MERN Stack)  
-📅 Jan 2026 – Present  
-**Role:** Full Stack Developer  
-
-### 🔥 Key Features:
-- Secure JWT Authentication (Login/Register)  
-- Advanced Product Filtering (Category, Size, Price, Color)  
-- Admin Dashboard (Product & Order Management)  
-- Redux Toolkit Global State Management  
-- REST API Integration with MongoDB  
-- Fully Responsive UI (React + Tailwind CSS)  
-
-### 🛠 Tech Used:
-React • Redux Toolkit • Node.js • Express.js • MongoDB • JWT • Git  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,git,github,npm" />
+</p>
 
 ---
 
@@ -122,19 +107,17 @@ CGPA: 6.62 / 10
 
 ---
 
-# 📊 GitHub Performance
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="165em" src="https://streak-stats.demolab.com?user=AGiriGoswami&theme=tokyonight&hide_border=true"/>
 </p>
 
-
-
 ---
 
 # 🎯 Career Objective
 
-Seeking a challenging opportunity as a **Full Stack / MERN Stack Developer** where I can contribute to innovative products, enhance user experiences, and grow with a dynamic engineering team.
+Seeking a challenging opportunity as a **Full Stack / MERN Stack Developer** where I can contribute to impactful products, solve real-world problems, and grow within a collaborative engineering team.
 
 ---
 
