@@ -38,9 +38,47 @@ I focus on:
 
 ---
 
-# 🚀 Featured Projects
+
+
+# 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,git,github,npm" />
+</p>
 
 ---
+
+# 🎓 Education
+
+**Master of Computer Application (MCA)** – Pursuing  
+Sage University, Indore  
+
+**Bachelor of Computer Application (BCA)**  
+Vishisht School of Management  
+CGPA: 6.62 / 10  
+
+
+
+---
+
+# 💼 Professional Experience
+
+## 🏢 Aquadpure — E-Commerce Account Manager  
+📅 Feb 2025 – Present  
+
+- Managed Amazon & Flipkart seller accounts end-to-end  
+- Optimized Sponsored Ads campaigns and reduced ACOS  
+- Handled FBA shipment planning & inventory management  
+- Generated analytical performance reports (Daily / Weekly / 15-day)  
+- Improved product ranking through SEO & keyword optimization  
+- Implemented data-driven growth strategies
+  
+
+---
+
+
+# 🚀 Featured Projects
+
 
 ## 📦 Profit & RTO Calculator  
 **Frontend Business Simulation Project**
@@ -72,38 +110,8 @@ HTML • Tailwind CSS • JavaScript • Chart.js • jsPDF • Netlify
 **Tech Used:**  
 React • Redux Toolkit • Node.js • Express • MongoDB • JWT  
 
----
 
-# 💼 Professional Experience
 
-## 🏢 Aquadpure — E-Commerce Account Manager  
-📅 Feb 2025 – Present  
-
-- Managed Amazon & Flipkart seller accounts end-to-end  
-- Optimized Sponsored Ads campaigns and reduced ACOS  
-- Handled FBA shipment planning & inventory management  
-- Generated analytical performance reports (Daily / Weekly / 15-day)  
-- Improved product ranking through SEO & keyword optimization  
-- Implemented data-driven growth strategies  
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,git,github,npm" />
-</p>
-
----
-
-# 🎓 Education
-
-**Master of Computer Application (MCA)** – Pursuing  
-Sage University, Indore  
-
-**Bachelor of Computer Application (BCA)**  
-Vishisht School of Management  
-CGPA: 6.62 / 10  
 
 ---
 
