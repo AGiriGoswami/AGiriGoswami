@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;JavaScript+Logic+Builder;E-Commerce+Profit+Simulation+Projects;Building+Business-Driven+Web+Applications;Open+to+Developer+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;JavaScript+Logic+Builder;E-Commerce+Profit+Projects;Building+Web+Applications;Open+to+Developer+Opportunities" />
 </p>
 
 <p align="center">
