@@ -57,6 +57,41 @@ Focused on writing clean code, building user-friendly interfaces, and delivering
 
 ---
 
+
+# 📊 Business Simulation Project
+
+## 📦 Profit & RTO Calculator  
+📅 2026  
+**Role:** Frontend Developer  
+
+### 🔥 Project Overview:
+Built a realistic Amazon seller profit simulation tool that calculates actual net profitability by including referral fees, closing fees, TCS (1%), return percentage, and RTO full-loss impact.
+
+### 🚀 Key Features:
+- Dynamic Amazon 2026 Referral Fee Slab Engine  
+- Closing Fee Automation  
+- TCS (1%) Auto Calculation  
+- RTO (Return-to-Origin) Full Loss Simulation  
+- Revenue vs Cost vs Profit Visualization (Chart.js)  
+- Downloadable Business PDF Report (jsPDF)  
+- Fully Responsive Modern UI (Tailwind CSS)  
+
+### 🧠 Business Logic Implemented:
+- Automated fee structure based on selling price  
+- Return % simulation affecting revenue and shipping  
+- Double shipping cost loss modeling  
+- Accurate net margin calculation  
+
+### 🌐 Live Demo:
+🔗 https://e-commerceprofitandloss.netlify.app/
+
+### 🛠 Tech Used:
+HTML • Tailwind CSS • JavaScript • Chart.js • jsPDF • Netlify  
+
+
+
+---
+
 # 🚀 Featured Project
 
 ## 🛍 Clothing E-Commerce Website (MERN Stack)  
