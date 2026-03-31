@@ -43,7 +43,7 @@ I focus on:
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,py,c,cpp,git,github,npm" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,py,cpp,git,github,npm" />
 </p>
 
 ---
