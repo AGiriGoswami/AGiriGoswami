@@ -35,11 +35,11 @@ With hands-on experience as an **E-Commerce Account Manager (Amazon & Flipkart)*
 
 # ⚡ Core Strengths
 
-✔ Business Logic & System Design
-✔ Scalable Backend Development (Node.js, Express)
-✔ Modern Frontend (React, Redux, Tailwind)
-✔ REST API Architecture
-✔ Performance Optimization & Clean Code
+-  Business Logic & System Design
+-  Scalable Backend Development (Node.js, Express)
+-  Modern Frontend (React, Redux, Tailwind)
+-  REST API Architecture
+-  Performance Optimization & Clean Code
 
 ---
 
@@ -57,11 +57,11 @@ With hands-on experience as an **E-Commerce Account Manager (Amazon & Flipkart)*
 
 **Full Stack | Scalable Inventory System**
 
-🔹 Built a centralized inventory system supporting **multi-platform stock tracking**
-🔹 Implemented **real-time stock updates** for sales & purchases via REST APIs
-🔹 Developed **low-stock alert system** to prevent revenue loss
-🔹 Enabled **bulk product upload via Excel**, improving operational efficiency
-🔹 Designed **modular backend architecture** with secure JWT authentication
+-  Built a centralized inventory system supporting **multi-platform stock tracking**
+-  Implemented **real-time stock updates** for sales & purchases via REST APIs
+-  Developed **low-stock alert system** to prevent revenue loss
+-  Enabled **bulk product upload via Excel**, improving operational efficiency
+-  Designed **modular backend architecture** with secure JWT authentication
 
 **Live Demo:**
 https://stocksale.netlify.app/
@@ -76,11 +76,11 @@ React • Redux Toolkit • Tailwind • Node.js • Express • MongoDB • JWT
 
 **Business Simulation Tool (Frontend)**
 
-🔹 Built a real-world **Amazon profit calculation engine**
-🔹 Modeled **RTO loss, return %, fees, and taxation (TCS)**
-🔹 Visualized **profit vs cost vs revenue** using charts
-🔹 Generated **downloadable business reports (PDF)**
-🔹 Designed responsive UI with Tailwind CSS
+- Built a real-world **Amazon profit calculation engine**
+- Modeled **RTO loss, return %, fees, and taxation (TCS)**
+- Visualized **profit vs cost vs revenue** using charts
+- Generated **downloadable business reports (PDF)**
+- Designed responsive UI with Tailwind CSS
 
 **Live Demo:**
 https://e-commerceprofitandloss.netlify.app/
@@ -94,11 +94,11 @@ HTML • Tailwind • JavaScript • Chart.js • jsPDF
 
 **Full Stack Application**
 
-🔹 JWT Authentication & Role-Based Access
-🔹 Admin Dashboard (Products & Orders)
-🔹 Advanced Filtering (Category, Size, Price, Color)
-🔹 Redux Toolkit for state management
-🔹 REST APIs with Express & MongoDB
+- JWT Authentication & Role-Based Access
+- Admin Dashboard (Products & Orders)
+- Advanced Filtering (Category, Size, Price, Color)
+- Redux Toolkit for state management
+- REST APIs with Express & MongoDB
 
 **Tech:**
 React • Redux • Node.js • Express • MongoDB • JWT
@@ -111,11 +111,11 @@ React • Redux • Node.js • Express • MongoDB • JWT
 
 📅 Feb 2025 – Present
 
-🔹 Managed Amazon & Flipkart seller accounts end-to-end
-🔹 Reduced ACOS through optimized ad campaigns
-🔹 Handled FBA inventory & shipment planning
-🔹 Built performance reports (Daily / Weekly / 15-day)
-🔹 Improved product ranking using SEO & keyword strategies
+- Managed Amazon & Flipkart seller accounts end-to-end
+- Reduced ACOS through optimized ad campaigns
+- Handled FBA inventory & shipment planning
+- Built performance reports (Daily / Weekly / 15-day)
+- Improved product ranking using SEO & keyword strategies
 
 ---
 
