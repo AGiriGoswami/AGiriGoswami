@@ -5,12 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;JavaScript+Logic+Builder;E-Commerce+Profit+Projects;Building+Web+Applications;Open+to+Developer+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;System+Builder+%26+Problem+Solver;E-Commerce+%26+Business+Logic+Expert;Building+Scalable+Web+Applications;Open+to+Developer+Opportunities" />
 </p>
 
 <p align="center">
-  📍 Indore, Madhya Pradesh, India •
-  📧 ag124767@gmail.com
+  📍 Indore, India • 📧 ag124767@gmail.com
 </p>
 
 <p align="center">
@@ -26,19 +25,23 @@
 
 # 👨‍💻 About Me
 
-I am a **Full Stack MERN Developer** with strong problem-solving skills and hands-on experience in building scalable, secure, and performance-driven web applications.
+I am a **Full Stack MERN Developer** focused on building **scalable, business-driven web applications**.
 
-With real-world exposure as an **E-Commerce Account Manager (Amazon & Flipkart)**, I combine technical development skills with business understanding to build practical, revenue-focused solutions.
+With hands-on experience as an **E-Commerce Account Manager (Amazon & Flipkart)**, I bring a strong understanding of **real-world business logic, revenue systems, and data-driven decision making**.
 
-I focus on:
-- Writing clean and maintainable code
-- Designing intuitive user interfaces
-- Building business logic driven systems
-- Delivering measurable impact
+💡 I don’t just build apps — I build **systems that solve problems and generate impact**.
 
 ---
 
+# ⚡ Core Strengths
 
+✔ Business Logic & System Design
+✔ Scalable Backend Development (Node.js, Express)
+✔ Modern Frontend (React, Redux, Tailwind)
+✔ REST API Architecture
+✔ Performance Optimization & Clean Code
+
+---
 
 # 🛠 Tech Stack
 
@@ -48,70 +51,78 @@ I focus on:
 
 ---
 
-# 🎓 Education
+# 🚀 Featured Projects
 
-**Master of Computer Application (MCA)** – Pursuing  
-Sage University, Indore  
+## 📊 Multi-Platform Stock Management System (MERN Stack)
 
-**Bachelor of Computer Application (BCA)**  
-Vishisht School of Management  
-CGPA: 6.62 / 10  
+**Full Stack | Scalable Inventory System**
+
+🔹 Built a centralized inventory system supporting **multi-platform stock tracking**
+🔹 Implemented **real-time stock updates** for sales & purchases via REST APIs
+🔹 Developed **low-stock alert system** to prevent revenue loss
+🔹 Enabled **bulk product upload via Excel**, improving operational efficiency
+🔹 Designed **modular backend architecture** with secure JWT authentication
+
+**Live Demo:**
+https://stocksale.netlify.app/
 
 
+**Tech:**
+React • Redux Toolkit • Tailwind • Node.js • Express • MongoDB • JWT • Axios
+
+---
+
+## 📦 Profit & RTO Calculator
+
+**Business Simulation Tool (Frontend)**
+
+🔹 Built a real-world **Amazon profit calculation engine**
+🔹 Modeled **RTO loss, return %, fees, and taxation (TCS)**
+🔹 Visualized **profit vs cost vs revenue** using charts
+🔹 Generated **downloadable business reports (PDF)**
+🔹 Designed responsive UI with Tailwind CSS
+
+**Live Demo:**
+https://e-commerceprofitandloss.netlify.app/
+
+**Tech:**
+HTML • Tailwind • JavaScript • Chart.js • jsPDF
+
+---
+
+## 🛍 Clothing E-Commerce Website (MERN Stack)
+
+**Full Stack Application**
+
+🔹 JWT Authentication & Role-Based Access
+🔹 Admin Dashboard (Products & Orders)
+🔹 Advanced Filtering (Category, Size, Price, Color)
+🔹 Redux Toolkit for state management
+🔹 REST APIs with Express & MongoDB
+
+**Tech:**
+React • Redux • Node.js • Express • MongoDB • JWT
 
 ---
 
 # 💼 Professional Experience
 
-## 🏢 Aquadpure — E-Commerce Account Manager  
-📅 Feb 2025 – Present  
+## 🏢 Aquadpure — E-Commerce Account Manager
 
-- Managed Amazon & Flipkart seller accounts end-to-end  
-- Optimized Sponsored Ads campaigns and reduced ACOS  
-- Handled FBA shipment planning & inventory management  
-- Generated analytical performance reports (Daily / Weekly / 15-day)  
-- Improved product ranking through SEO & keyword optimization  
-- Implemented data-driven growth strategies
-  
+📅 Feb 2025 – Present
 
----
-
-
-# 🚀 Featured Projects
-
-
-## 📦 Profit & RTO Calculator  
-**Frontend Business Simulation Project**
-
-🔹 Built a realistic Amazon seller profit engine including referral fees, closing fees, TCS (1%), return percentage, and RTO full-loss modeling.  
-🔹 Implemented dynamic fee slabs and automated business calculations using JavaScript.  
-🔹 Integrated Chart.js for revenue vs cost vs profit visualization.  
-🔹 Added downloadable PDF business reports using jsPDF.  
-🔹 Designed fully responsive UI using Tailwind CSS.  
-
-**Live Demo:**  
-https://e-commerceprofitandloss.netlify.app/
-
-**Tech Used:**  
-HTML • Tailwind CSS • JavaScript • Chart.js • jsPDF • Netlify  
+🔹 Managed Amazon & Flipkart seller accounts end-to-end
+🔹 Reduced ACOS through optimized ad campaigns
+🔹 Handled FBA inventory & shipment planning
+🔹 Built performance reports (Daily / Weekly / 15-day)
+🔹 Improved product ranking using SEO & keyword strategies
 
 ---
 
-## 🛍 Clothing E-Commerce Website (MERN Stack)  
-**Full Stack Application**
+# 🎓 Education
 
-🔹 Secure JWT Authentication (Login / Register)  
-🔹 Admin Dashboard (Product & Order Management)  
-🔹 Advanced Product Filtering (Category, Size, Price, Color)  
-🔹 Redux Toolkit State Management  
-🔹 REST APIs with Express & MongoDB  
-🔹 Fully Responsive UI (React + Tailwind)  
-
-**Tech Used:**  
-React • Redux Toolkit • Node.js • Express • MongoDB • JWT  
-
-
-
+🎓 **MCA (Pursuing)** — Sage University, Indore
+🎓 **BCA** — Vishisht School of Management (CGPA: 6.62)
 
 ---
 
@@ -125,7 +136,7 @@ React • Redux Toolkit • Node.js • Express • MongoDB • JWT
 
 # 🎯 Career Objective
 
-Seeking a challenging opportunity as a **Full Stack / MERN Stack Developer** where I can contribute to impactful products, solve real-world problems, and grow within a collaborative engineering team.
+To work as a **Full Stack / MERN Developer** where I can build **impactful products, scalable systems, and solve real-world business problems**.
 
 ---
 
