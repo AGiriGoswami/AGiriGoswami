@@ -27,19 +27,18 @@
 
 I am a **Full Stack MERN Developer** focused on building **scalable, business-driven web applications**.
 
-With hands-on experience as an **E-Commerce Account Manager (Amazon & Flipkart)**, I bring a strong understanding of **real-world business logic, revenue systems, and data-driven decision making**.
+With a unique dual background as both a developer and an **E-Commerce Entrepreneur & Account Manager**, I bridge the gap between clean code and real-world business outcomes. I have hands-on experience handling end-to-end commercial operations, from marketplace SEO to state-level commercial tax registrations.
 
-💡 I don’t just build apps — I build **systems that solve problems and generate impact**.
+💡 I don’t just build applications — I architect **systems that solve complex logic, optimize operations, and drive growth**.
 
 ---
 
 # ⚡ Core Strengths
 
--  Business Logic & System Design
--  Scalable Backend Development (Node.js, Express)
--  Modern Frontend (React, Redux, Tailwind)
--  REST API Architecture
--  Performance Optimization & Clean Code
+-  **System Architecture:** Designing modular backends and scalable relational/non-relational database models.
+-  **Business Logic Integration:** Translating complex financial requirements (taxation, RTO metrics, inventory tracking) into clean code.
+-  **API Design:** Engineering robust, secure RESTful APIs with efficient state management.
+-  **Performance Optimization:** Crafting lightweight frontends with Tailwind CSS and optimizing database queries.
 
 ---
 
@@ -54,75 +53,55 @@ With hands-on experience as an **E-Commerce Account Manager (Amazon & Flipkart)*
 # 🚀 Featured Projects
 
 ## 📊 Multi-Platform Stock Management System (MERN Stack)
-
 **Full Stack | Scalable Inventory System**
+- Built a centralized inventory hub supporting automated, real-time multi-platform stock tracking.
+- Implemented live stock state updates for synchronized sales and purchases via secure REST APIs.
+- Designed a data-driven low-stock alert engine to prevent inventory gaps and protect revenue pipelines.
+- Developed an optimized bulk-upload pipeline parsing multi-row Excel sheets directly into MongoDB.
+- Architected a modular backend featuring secure JWT authentication and granular middleware protection.
 
--  Built a centralized inventory system supporting **multi-platform stock tracking**
--  Implemented **real-time stock updates** for sales & purchases via REST APIs
--  Developed **low-stock alert system** to prevent revenue loss
--  Enabled **bulk product upload via Excel**, improving operational efficiency
--  Designed **modular backend architecture** with secure JWT authentication
-
-**Live Demo:**
-https://stocksale.netlify.app/
-
-
-**Tech:**
-React • Redux Toolkit • Tailwind • Node.js • Express • MongoDB • JWT • Axios
+**Live Demo:** [stocksale.netlify.app](https://stocksale.netlify.app/)  
+**Tech:** React • Redux Toolkit • Tailwind CSS • Node.js • Express • MongoDB • JWT • Axios
 
 ---
 
 ## 📦 Profit & RTO Calculator
+**Business Analytics & Simulation Tool**
+- Modeled a precise Amazon profit calculation engine translating complex operational costs into visual data.
+- Programmed multi-variable logic handling RTO loss percentages, fluid referral fees, and regional taxation parameters (TCS).
+- Built responsive visual dashboards mapping profit-vs-cost ratios utilizing Chart.js.
+- Integrated a clientside document generation engine via jsPDF for downloading clean, automated financial reports.
 
-**Business Simulation Tool (Frontend)**
-
-- Built a real-world **Amazon profit calculation engine**
-- Modeled **RTO loss, return %, fees, and taxation (TCS)**
-- Visualized **profit vs cost vs revenue** using charts
-- Generated **downloadable business reports (PDF)**
-- Designed responsive UI with Tailwind CSS
-
-**Live Demo:**
-https://e-commerceprofitandloss.netlify.app/
-
-**Tech:**
-HTML • Tailwind • JavaScript • Chart.js • jsPDF
+**Live Demo:** [e-commerceprofitandloss.netlify.app](https://e-commerceprofitandloss.netlify.app/)  
+**Tech:** HTML5 • Tailwind CSS • JavaScript (ES6+) • Chart.js • jsPDF
 
 ---
 
 ## 🛍 Clothing E-Commerce Website (MERN Stack)
+**Full Stack Production Application**
+- Implemented bulletproof JWT authentication paired with robust role-based route protection.
+- Designed a centralized Admin Control Panel managing live inventory status, product catalogs, and order fulfilment.
+- Programmed multi-tier database aggregation queries for complex, low-latency product filtering (category, size, price, color).
 
-**Full Stack Application**
-
-- JWT Authentication & Role-Based Access
-- Admin Dashboard (Products & Orders)
-- Advanced Filtering (Category, Size, Price, Color)
-- Redux Toolkit for state management
-- REST APIs with Express & MongoDB
-
-**Tech:**
-React • Redux • Node.js • Express • MongoDB • JWT
+**Tech:** React • Redux Toolkit • Node.js • Express • MongoDB • JWT
 
 ---
 
 # 💼 Professional Experience
 
-## 🏢 Aquadpure — E-Commerce Account Manager
-
+## 🏢 Aquadpure — E-Commerce Account Manager & Operations Specialist
 📅 Feb 2025 – Present
-
-- Managed Amazon & Flipkart seller accounts end-to-end
-- Reduced ACOS through optimized ad campaigns
-- Handled FBA inventory & shipment planning
-- Built performance reports (Daily / Weekly / 15-day)
-- Improved product ranking using SEO & keyword strategies
+- Supervised Amazon & Flipkart operations, executing complete lifecycle control over product listings and health metrics.
+- Boosted capital efficiency by managing optimized PPC ad campaigns, systematically lowering ACOS metrics.
+- Orchestrated supply-chain logistics, supervising FBA inventory allocations and incoming shipment forecasting.
+- Built a daily analytical reporting framework mapping operational sales velocity against active keyword SEO growth.
 
 ---
 
 # 🎓 Education
 
-🎓 **MCA (Pursuing)** — Sage University, Indore
-🎓 **BCA** — Vishisht School of Management (CGPA: 6.62)
+- 🎓 **MCA (Master of Computer Applications)** — SAGE University (in association with Sunstone), Indore
+- 🎓 **BCA (Bachelor of Computer Applications)** — Vishisht School of Management (CGPA: 6.62)
 
 ---
 
@@ -136,7 +115,7 @@ React • Redux • Node.js • Express • MongoDB • JWT
 
 # 🎯 Career Objective
 
-To work as a **Full Stack / MERN Developer** where I can build **impactful products, scalable systems, and solve real-world business problems**.
+To leverage my engineering skillset and business logic experience as a **Full Stack / MERN Developer**, contributing to high-impact engineering teams building scalable, enterprise-grade software products.
 
 ---
 
