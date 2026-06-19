@@ -1,151 +1,212 @@
-<!-- ================= PREMIUM HEADER ================= -->
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Ajay Giri Goswami
+
+### Full Stack MERN Developer | Business Systems Builder | Problem Solver
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Ajay%20Giri%20Goswami&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;Building+Scalable+Business+Applications;Inventory+Management+Systems;E-Commerce+Automation+Solutions;Open+to+Software+Engineering+Opportunities" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;System+Builder+%26+Problem+Solver;E-Commerce+%26+Business+Logic+Expert;Building+Scalable+Web+Applications;Open+to+Developer+Opportunities" />
-</p>
-
-<p align="center">
-  📍 Indore, Madhya Pradesh • 📧 ag124767@gmail.com • 📞 +91 9993979058
+  📍 Indore, Madhya Pradesh, India <br/>
+  📧 ag124767@gmail.com <br/>
+  🌐 agoswami69.in
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ajay-giri-goswami-564482227">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/AGiriGoswami">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 🚀 About Me
 
-I am a **Full Stack MERN Developer** focused on building **scalable, business-driven web applications**. 
+I'm a Full Stack MERN Developer passionate about building software that solves real business problems.
 
-With a unique dual background as both a developer and an **E-Commerce Account Manager**, I bridge the gap between clean code and real-world commercial outcomes. I excel at translating complex operational logic (like dynamic taxation, RTO loss metrics, and multi-platform inventory syncs) into robust, secure, and production-ready applications.
+My experience combines software development with real-world e-commerce operations, allowing me to create applications that are not only technically robust but also commercially effective.
 
-💡 I don’t just build apps — I architect **systems that solve complex logic, optimize workflows, and drive business growth**.
+I specialize in:
 
----
-
-# ⚡ Core Strengths
-
-- **System Architecture:** Designing modular backends and scalable relational/non-relational database models (MERN + SQL).
-- **Business Logic Integration:** Translating complex financial rules (taxation, RTO metrics, automated inventory tracking) into clean code.
-- **Problem Solving (DSA):** Strong foundational programming with 70+ DSA problems solved on LeetCode and GeeksforGeeks.
-- **AI-Assisted Engineering:** Leveraging advanced AI tooling (Cursor, Prompt Engineering) to speed up development pipelines without compromising code quality.
+* Building scalable MERN applications
+* Designing business automation systems
+* Developing inventory and order management platforms
+* Creating secure authentication architectures
+* Translating complex business workflows into software solutions
 
 ---
 
-# 🛠 Tech Stack & Skills
+## 💼 Professional Experience
 
-<table>
-  <tr>
-    <td><b>Hard Skills</b></td>
-    <td>JavaScript (ES6+), HTML5, CSS3, React.js, Node.js, Express.js, MongoDB, MySQL, Tailwind CSS, Redux Toolkit, C++, Python, Git/GitHub, JWT, Bcrypt</td>
-  </tr>
-  <tr>
-    <td><b>Soft Skills</b></td>
-    <td>Technical Communication, Problem-Solving, Team Leadership, Event Coordination, Decision-Making, Time Management</td>
-  </tr>
-</table>
+### E-Commerce Account Manager | Aquadpure
 
-<p align="center" style="margin-top: 15px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,py,cpp,git,github,npm" />
-</p>
+**Feb 2025 – Present**
+
+* Increased sales and visibility by 30% through SEO optimization and marketplace analytics.
+* Managed 180+ active marketplace listings.
+* Reduced ACOS by 30% through strategic PPC optimization.
+* Handled Amazon & Flipkart inventory operations, fulfillment, and logistics.
+* Built operational reporting frameworks for sales and inventory tracking.
 
 ---
 
-# 🚀 Featured Projects
+## 🛠 Tech Stack
 
-## 📊 Multi-Platform Stock Management System (MERN Stack)
-**Full Stack | Scalable Inventory Hub (2026)**
-- Improved inventory accuracy with automated, real-time multi-platform stock tracking and centralized state synchronization.
-- Implemented secure REST APIs to process orders, track sales data, and deliver dynamic diagnostic dashboards.
-- Designed an optimized bulk-upload pipeline parsing multi-row Excel sheets directly into MongoDB databases.
-- Architected a modular backend featuring secure JWT authentication and granular middleware protection for user operations.
+### Frontend
 
-**Live Demo:** [stocksale.netlify.app](https://stocksale.netlify.app/) | **Tech:** React • Redux Toolkit • Tailwind CSS • Node.js • Express • MongoDB • JWT
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge\&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
 
----
+### Backend
 
-## 📦 Profit & RTO Calculator
-**Business Analytics & Simulation Tool (2026)**
-- Modeled a precise Amazon Seller Profit Engine accounting for dynamic referral fees, closing fees, 1% TCS, returns, and complex RTO loss logic.
-- Programmed multi-variable calculation scripts in JavaScript to automate real-time margin evaluations.
-- Built responsive visual dashboards mapping revenue-vs-cost ratios utilizing Chart.js and Tailwind CSS.
-- Integrated a client-side document generation engine via jsPDF for downloading clean, automated financial reports.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
 
-**Live Demo:** [e-commerceprofitandloss.netlify.app](https://e-commerceprofitandloss.netlify.app/) | **Tech:** HTML5 • Tailwind CSS • JavaScript (ES6+) • Chart.js • jsPDF
+### Database
 
----
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 
-## 🔐 User Authentication Application
-**Secure Backend Architecture (2025)**
-- Designed a secure user registration and login pipeline using React and Express, focusing heavily on modern data protection principles.
-- Employed JWT (JSON Web Tokens) and bcrypt password hashing to verify identities, manage user states, and safeguard restricted routes.
-- Implemented robust input validation logic to ensure reliable, error-tolerant authentication handling.
+### Tools
 
-**Tech:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS • Bcrypt • JWT
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
 
 ---
 
-# 💼 Professional Experience
+## 🚀 Featured Projects
 
-## 🏢 Aquadpure — E-Commerce Account Manager & Operations Specialist
-📅 **Feb 2025 – Present** | *Indore, India (Sunstone)*
-- **Growth & Optimization:** Boosted sales and brand visibility by **30%** through target marketplace SEO strategies and structural data analysis across 180+ active listings.
-- **Ad Campaign Management:** Reduced overall ACOS by **30%** by actively optimizing targeted PPC campaigns and adjusting keyword bidding funnels.
-- **Operations & Logistics:** Handled end-to-end account management across Amazon & Flipkart, supervising FBA inventory allocations, order fulfillment, and shipment metrics.
-- **Reporting:** Built daily data frameworks tracking operational sales velocity against live keyword trends.
+### 📊 Multi-Platform Stock Management System
 
----
+A centralized inventory management platform built using the MERN stack.
 
-# 🎓 Education
+#### Highlights
 
-* **🎓 MCA (Master of Computer Applications)** — SAGE University in association with Sunstone, Indore | *2025 – 2027*
-* **🎓 BCA (Bachelor of Computer Applications)** — DAVV University (Vishisht School of Management) | *Graduated 2024* — **CGPA: 6.62 / 10**
-* **🏫 Class XII (HSC)** — Govt Model School, Gommatgiri Aerodrum Road, Indore | *2021* — **Score: 68.6%**
-* **🏫 Class X (SSC)** — Govt Model School, Gommatgiri Aerodrum Road, Indore | *2019* — **Score: 71.2%**
+* Real-time stock synchronization
+* Excel bulk upload support
+* Secure JWT authentication
+* Order tracking and analytics dashboard
+* RESTful API architecture
 
----
+**Tech Stack:** React, Redux Toolkit, Node.js, Express.js, MongoDB, JWT
 
-# 📜 Industry Certifications (2025-2026)
-
-- **Prompt Engineering Mastery** — Sunstone School of Technology *(May 2026)*
-- **SQL Pro: AI-Powered Querying** — Sunstone School of Technology *(April 2026)*
-- **Cursor AI: VibeCode Mastery** — Sunstone School of Technology *(February 2026)*
-- **UI/UX Professional Certification** — Sunstone School of Technology *(December 2025)*
+🔗 Live Demo: https://stocksale.netlify.app
 
 ---
 
-# 🏆 Achievements & Leadership
+### 📦 Profit & RTO Calculator
 
-- **Event Lead - 'Teach the Tech':** Organized and led the peer learning initiative under the campus Tech Club, coordinating technical tracks for **200+ students** and managing smooth event execution.
-- **Speaker Coordination:** Partnered directly with industry professionals to design and deliver technical sessions covering **Agile methodologies**, QA infrastructure, and production deployment cycles.
-- **Operations Coordinator:** Managed logistics, stall setups, and vendor coordination for the **"Hatt Bazaar - Local Flea Market"**, gaining valuable hands-on experience in public coordination and event flow control.
+Business analytics platform for Amazon sellers.
+
+#### Highlights
+
+* Automated profit calculations
+* Referral fee and TCS calculations
+* RTO loss simulation engine
+* Interactive charts and reports
+* PDF export functionality
+
+**Tech Stack:** JavaScript, Tailwind CSS, Chart.js, jsPDF
+
+🔗 Live Demo: https://e-commerceprofitandloss.netlify.app
 
 ---
 
-# 📊 GitHub Stats
+### 🔐 User Authentication Application
+
+Secure authentication system implementing industry-standard security practices.
+
+#### Highlights
+
+* JWT Authentication
+* Password Hashing using bcrypt
+* Protected Routes
+* Input Validation
+* Secure Session Handling
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+---
+
+## 📈 Highlights
+
+* 🚀 3+ Full Stack Projects
+* 💡 70+ DSA Problems Solved
+* 📦 180+ Marketplace Listings Managed
+* 📈 30% Sales Growth Achieved
+* 🎯 30% ACOS Reduction Delivered
+
+---
+
+## 🎓 Education
+
+### Master of Computer Applications (MCA)
+
+SAGE University (2025 – 2027)
+
+### Bachelor of Computer Applications (BCA)
+
+DAVV University (Graduated 2024)
+
+---
+
+## 📜 Certifications
+
+* Prompt Engineering Mastery
+* SQL Pro: AI-Powered Querying
+* Cursor AI: VibeCode Mastery
+* UI/UX Professional Certification
+
+---
+
+## 🏆 Leadership & Achievements
+
+### Event Lead – Teach the Tech
+
+* Coordinated technical learning initiatives for 200+ students.
+* Managed event planning and execution.
+* Facilitated peer-to-peer technical education sessions.
+
+### Operations Coordinator – Hatt Bazaar
+
+* Managed logistics and vendor coordination.
+* Supervised event operations and scheduling.
+* Ensured seamless event execution.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://streak-stats.demolab.com?user=AGiriGoswami&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AGiriGoswami&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AGiriGoswami&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🎯 Career Objective
+## 🤝 Let's Connect
 
-To leverage my full-stack engineering skillset, hands-on business logic experience, and AI-driven development practices as a **Full Stack / MERN Developer**, contributing to high-impact software engineering teams building scalable, enterprise-ready digital products.
+I'm currently open to:
+
+* Full Stack Developer Roles
+* MERN Stack Opportunities
+* Software Engineering Internships
+* Freelance Development Projects
+* Startup Collaborations
+
+📧 **Email:** [ag124767@gmail.com](mailto:ag124767@gmail.com)
+
+🌐 **Portfolio:** agoswami69.in
+
+💼 **LinkedIn:** linkedin.com/in/ajay-giri-goswami-564482227
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
+### ⭐ Building Software That Solves Real Business Problems
